@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Home",
+    "halls": "Memorials",
+    "about": "About"
+  },
+  "base": {
+    "appName": "Paradise",
+    "appSubName": "The Cemetery Platform",
+    "appDesc": "Built On Decentralized Web3, Data Reserve Permanently"
+  },
+  "hall": {
+    "baseInfo": "Base Info Of The Deceased",
+    "gender": "Gender",
+    "gentleman": "Gentleman",
+    "lady": "Lady",
+    "citizenship": "Citizenship",
+    "nameOfDeath": "Name of Death",
+    "dateOfDeath": "Date of Death",
+    "placeOfDeath": "Place of Death",
+    "restingPlace": "Resting Place"
+  },
+  "about": {
+    "about": "ABOUT US",
+    "slogan": "Store forever, Never lose",
+    "introduction": "Cemetery is an online worship platform that developed based on Web3. All information is stored in decentralized storage, which will never be lost and stored permanently.",
+    "introduction1": "You can create tombstones for deceased relatives and friends for free on the Cemetery platform, so that their life stories can continue."
+  }
+}

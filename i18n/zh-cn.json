@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "首页",
+    "halls": "祭奠馆",
+    "about": "介绍"
+  },
+  "base": {
+    "appName": "伊甸园",
+    "appSubName": "让逝者信息永世保存",
+    "appDesc": "- 基于区块链去中心化存储，数据永不丢失！"
+  },
+  "hall": {
+    "baseInfo": "逝者基本信息",
+    "gender": "性别",
+    "gentleman": "先生",
+    "lady": "女士",
+    "citizenship": "国籍",
+    "nameOfDeath": "逝世时姓名",
+    "dateOfDeath": "逝世日期",
+    "placeOfDeath": "逝世地点",
+    "restingPlace": "安息地点",
+    "nameOfBirth": "出生姓名",
+    "dateOfBirth": "出生日期",
+    "placeOfBirth": "出生地点",
+    "storiesAboutTheDeceased": "生平信息",
+    "epitaph": "墓志铭",
+    "biography": "生平介绍"
+  },
+  "about": {
+    "about": "关于我们",
+    "slogan": "永久保存，永不消失",
+    "introduction": "Cemetery 是一个基于Web3开发的在线祭拜平台，所有cd信息均存采用去中心化存储，永不消失，永久保存。",
+    "introduction1": "你可以免费在Cemetery平台为逝世的亲友创建在线灵牌，让其生命故事得到延续。"
+  }
+}
