@@ -2,8 +2,6 @@ import i18n from 'i18next';
 import {initReactI18next} from 'react-i18next';
 //配置中文的配置文件
 import translation_zh_cn from './zh-cn.json';
-//配置繁体的配置文件
-import translation_zh_hk from './zh-hk.json';
 //配置英文的配置文件
 import translation_en_us from './en-us.json';
 import LanguageDetector from "i18next-browser-languagedetector";
@@ -11,9 +9,6 @@ import LanguageDetector from "i18next-browser-languagedetector";
 const resources = {
     "zh-CN": {
         translation: translation_zh_cn
-    },
-    "zh-HK": {
-        translation: translation_zh_hk
     },
     "en-US": {
         translation: translation_en_us

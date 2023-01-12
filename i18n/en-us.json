@@ -1,29 +1,66 @@
 {
-  "nav": {
-    "home": "Home",
-    "halls": "Memorials",
-    "about": "About"
+  "title": "PrivaHub - Deyun Technology",
+  "changeLng": "切换语言",
+  "language": "简体中文",
+  "header": {
+    "index": "Home",
+    "product": "Product",
+    "technology": "Technology",
+    "company": "About Us",
+    "contact": "Contact Us"
   },
-  "base": {
-    "appName": "Paradise",
-    "appSubName": "The Cemetery Platform",
-    "appDesc": "Built On Decentralized Web3, Data Reserve Permanently"
+  "content": {
+    "banner": {
+      "title": "Enterprise-level Privacy Computing Platform",
+      "subTitle": "Helping Enterprise Data Value Release And Circulation"
+    },
+    "product": {
+      "title": "PRODUCT",
+      "content": "PrivaHub is a distributed privacy computing platform independently developed by Deyun Technology based on technologies such as multi-party secure computing, federated learning, homomorphic encryption, and trusted computing. The platform covers privacy intersection, joint modeling, joint statistics, anonymous query, data resource management, algorithm container management, heterogeneous platform interconnection, etc., based on self-developed and open privacy computing framework, to create compatible performance for all business scenarios , security, and efficient privacy computing platform."
+    },
+    "technology": {
+      "title": "CORE TECHNOLOGIES",
+      "content": {
+        "a": {
+          "title": "Incognito Query",
+          "content": "The query party does not expose the query conditions, and the data server provides matching query results, but cannot know the specific corresponding query objects and the queried data."
+        },
+        "b": {
+          "title": "Safe Handover",
+          "content": "Based on privacy-preserving set intersection technology, two or more parties holding their own sets are allowed to jointly perform set intersection operations."
+        },
+        "c": {
+          "title": "Joint Modeling",
+          "content": "Joint modeling can be performed without sharing or exchanging sensitive data among the parties involved, and supports the common modes of horizontal federated learning and vertical federated learning."
+        },
+        "d": {
+          "title": "Joint Reasoning",
+          "content": "The model inference calculation party cannot obtain the specific model parameter information of the model provider, the model variable information input by the data provider, and the model output result of the result user."
+        },
+        "e": {
+          "title": "Multi-party Computing",
+          "content": "In a distributed network, each entity holds a secret input, and all parties jointly complete the calculation of a certain function, and each participating entity is required not to obtain any information of other users except the calculation result..."
+        }
+      }
+    },
+    "company": {
+      "title": "ABOUT US",
+      "content": [
+        "Guizhou Deyun Technology Co., Ltd. independently developed PrivaHub, an enterprise-level open source privacy computing platform product. The core members are all from well-known companies such as Baidu, Ali, ByteDance, and Huawei.",
+        "Deyun Technology's privacy computing products have cooperated in many fields such as finance, operators, government affairs, industrial Internet of Things, and medical care, and have signed strategic cooperation with many well-known companies. It provides data fusion services based on privacy and security for many enterprises and individuals, and has been highly recognized and praised by customers.",
+        "In terms of industry-university-research research, Deyun Technology has successively established strategic partnerships with many universities, and established a number of teams that combine industry-university-research research to jointly carry out in-depth cooperation in the fields of privacy computing, data elementization, and blockchain."
+      ]
+    },
+    "partners": {
+      "title": "PARTNERS"
+    }
   },
-  "hall": {
-    "baseInfo": "Base Info Of The Deceased",
-    "gender": "Gender",
-    "gentleman": "Gentleman",
-    "lady": "Lady",
-    "citizenship": "Citizenship",
-    "nameOfDeath": "Name of Death",
-    "dateOfDeath": "Date of Death",
-    "placeOfDeath": "Place of Death",
-    "restingPlace": "Resting Place"
-  },
-  "about": {
-    "about": "ABOUT US",
-    "slogan": "Store forever, Never lose",
-    "introduction": "Cemetery is an online worship platform that developed based on Web3. All information is stored in decentralized storage, which will never be lost and stored permanently.",
-    "introduction1": "You can create tombstones for deceased relatives and friends for free on the Cemetery platform, so that their life stories can continue."
+  "footer": {
+    "contact": "Contact",
+    "company": "Guizhou Deyun Technology Co., Ltd.",
+    "tel": "TEL",
+    "email": "E-mail",
+    "address": "Address",
+    "place": "Guanshan Lake District, Guiyang City, Guizhou Province, Guizhou Province"
   }
 }
