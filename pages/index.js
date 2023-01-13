@@ -24,18 +24,18 @@ export default function Home() {
                 <div className={styles.block1}>
                     <div className={styles.container}>
                         <Row>
-                            <Col span={12} xl={14}>
-                                <p style={{fontSize: "50px", fontWeight: "bolder"}}>PrivaHub</p>
+                            <Col span={24} xl={24}>
+                                <p style={{fontSize: "50px", fontWeight: "bolder"}}>PrivacyDAOs</p>
                                 <br/>
-                                <p style={{fontSize: "60px", fontWeight: "bolder"}}>{t('content.banner.title')}</p>
+                                <p style={{fontSize: "80px", fontWeight: "bolder"}}>{t('content.banner.title')}</p>
                                 <br/>
                                 <p style={{fontSize: "30px"}}>{t('content.banner.subTitle')}</p>
                             </Col>
-                            <Col span={12} xl={10}>
-                                <div style={{textAlign: "center",marginTop:"50px"}}>
-                                    <Image src="/privahub.png?1" alt="德云科技" width={600} height={150} priority/>
-                                </div>
-                            </Col>
+                            {/*<Col span={12} xl={10}>*/}
+                            {/*    <div style={{textAlign: "center",marginTop:"50px"}}>*/}
+                            {/*        <Image src="/privahub.png?1" alt="德云科技" width={600} height={150} priority/>*/}
+                            {/*    </div>*/}
+                            {/*</Col>*/}
                         </Row>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ export default function Home() {
                 </div>
                 {/*公司介绍*/}
                 <div style={{background:"white"}} id="company">
-                    <div className={styles.container} id="contact">
+                    <div className={styles.container}>
                         <div className={styles.about} style={{padding:"100px 0"}}>
                             <h1 style={{textAlign:"center",marginBottom:"50px"}}>{t("content.company.title")}</h1>
                             <div className={styles.description} >
@@ -97,10 +97,10 @@ export default function Home() {
                     </div>
                 </div>
                 {/*合作伙伴*/}
-                <div style={{background:"#000000"}}>
+                <div style={{background:"#000000"}} id="contact">
                     <div className={styles.container}>
                         <div className={styles.partners} style={{padding:"30px 0"}}>
-                            <h1 style={{textAlign:"center",marginBottom:"50px"}}>{t("content.partners.title")}</h1>
+                            <h1 style={{textAlign:"center",marginBottom:"50px",color:"white"}}>{t("content.partners.title")}</h1>
                             <div className={styles.description} >
                                 <Row gutter={40}>
                                     <Col className="gutter-row" span={4}>

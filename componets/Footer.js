@@ -19,8 +19,8 @@ export default function Footer() {
                             <h2>{t('footer.contact')}</h2>
                             <div style={{lineHeight:2}}>
                                 <p>{t('footer.company')}</p>
-                                <p>{t('footer.tel')}：155 1907 6193</p>
-                                <p>{t('footer.email')}：Contact@deyunw.com</p>
+                                <p>{t('footer.tel')}：(+86)155 1907 6193</p>
+                                <p>{t('footer.email')}：Contact@privacydaos.xyz</p>
                                 <p>{t('footer.address')}：{t('footer.place')}</p>
                             </div>
                         </div>

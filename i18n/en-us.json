@@ -1,5 +1,5 @@
 {
-  "title": "PrivaHub - Deyun Technology",
+  "title": "PrivacyDAOs - Deyun Technology",
   "changeLng": "切换语言",
   "language": "简体中文",
   "header": {
@@ -16,7 +16,7 @@
     },
     "product": {
       "title": "PRODUCT",
-      "content": "PrivaHub is a distributed privacy computing platform independently developed by Deyun Technology based on technologies such as multi-party secure computing, federated learning, homomorphic encryption, and trusted computing. The platform covers privacy intersection, joint modeling, joint statistics, anonymous query, data resource management, algorithm container management, heterogeneous platform interconnection, etc., based on self-developed and open privacy computing framework, to create compatible performance for all business scenarios , security, and efficient privacy computing platform."
+      "content": "PrivacyDAOs is a distributed privacy computing platform independently developed by Deyun Technology based on technologies such as multi-party secure computing, federated learning, homomorphic encryption, and trusted computing. The platform covers privacy intersection, joint modeling, joint statistics, anonymous query, data resource management, algorithm container management, heterogeneous platform interconnection, etc., based on self-developed and open privacy computing framework, to create compatible performance for all business scenarios , security, and efficient privacy computing platform."
     },
     "technology": {
       "title": "CORE TECHNOLOGIES",
@@ -46,7 +46,7 @@
     "company": {
       "title": "ABOUT US",
       "content": [
-        "Guizhou Deyun Technology Co., Ltd. independently developed PrivaHub, an enterprise-level open source privacy computing platform product. The core members are all from well-known companies such as Baidu, Ali, ByteDance, and Huawei.",
+        "Guizhou Deyun Technology Co., Ltd. independently developed PrivacyDAOs, an enterprise-level open source privacy computing platform product. The core members are all from well-known companies such as Baidu, Ali, ByteDance, and Huawei.",
         "Deyun Technology's privacy computing products have cooperated in many fields such as finance, operators, government affairs, industrial Internet of Things, and medical care, and have signed strategic cooperation with many well-known companies. It provides data fusion services based on privacy and security for many enterprises and individuals, and has been highly recognized and praised by customers.",
         "In terms of industry-university-research research, Deyun Technology has successively established strategic partnerships with many universities, and established a number of teams that combine industry-university-research research to jointly carry out in-depth cooperation in the fields of privacy computing, data elementization, and blockchain."
       ]
@@ -61,6 +61,6 @@
     "tel": "TEL",
     "email": "E-mail",
     "address": "Address",
-    "place": "Guanshan Lake District, Guiyang City, Guizhou Province, Guizhou Province"
+    "place": "Guanshan Lake District, Guiyang City, Guizhou Province, China"
   }
 }
